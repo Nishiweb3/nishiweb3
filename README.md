@@ -9,7 +9,7 @@
 <h3 align="center">B.Tech Blockchain Engineering Student | Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nishiweb3&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
 </p>
 
 ---
