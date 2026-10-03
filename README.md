@@ -196,14 +196,7 @@ const Nishita = {
 ---
 
 
-## 🐍 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Nishiweb3/Nishiweb3/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 
 ## 💭 Daily Quote
 
