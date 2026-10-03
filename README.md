@@ -184,13 +184,13 @@ const Nishita = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Nishiweb3&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" />
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nishiweb3&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Nishiweb3&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -198,10 +198,8 @@ const Nishita = {
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nishiweb3/Nishiweb3/output/github-snake.svg" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/nishiweb3/nishiweb3/output/github-snake.svg" alt="Contribution Snake">
 </p>
-
----
 
 ## 💭 Daily Quote
 
