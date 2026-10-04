@@ -214,7 +214,7 @@ const Nishita = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7512189190768594944">
+<a href="https://www.linkedin.com/in/nishita-charbathiya-6a056933b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
